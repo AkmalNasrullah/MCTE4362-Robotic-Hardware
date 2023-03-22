@@ -1,7 +1,7 @@
 # `MCTE 4362` Robotic Hardware System
 
 Name: Muhammad Akmal Nasrullah\
-Matric No.: 1917137
+Matric No : 1917137
 
 ## Contents
 
