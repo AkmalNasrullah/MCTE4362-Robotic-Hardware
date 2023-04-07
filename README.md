@@ -7,4 +7,5 @@ Matric No : 1917137
 
 | Week |                      Topic                       |
 | :--: | :----------------------------------------------: |
-|  1   | [Remotely operated vehicles (ROV)](Week1/ROV_1917137.pdf) |
+|  1   | [Remotely Operated Vehicles (ROV)](Week1/ROV_1917137.pdf) |
+|  2   | [Unmanned Aerial Vehicles (UAV)](Week2/UAV_1917137.pdf) |
